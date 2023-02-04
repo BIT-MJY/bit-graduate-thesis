@@ -11,6 +11,6 @@ $ sudo fc-cache
 
 直接编译即可。
 ```
-cd bit-graduate-thesis
-make
+$ cd bit-graduate-thesis
+$ make
 ```
